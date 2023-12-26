@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **avanish068@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/eyQW2](https://shorturl.at/eyQW2)
+- 📄 Know about my experiences [
+https://shorturl.at/drGH1](
+https://shorturl.at/drGH1)
 
 - ⚡ Fun fact **Web Developers are digital nomads**
 
