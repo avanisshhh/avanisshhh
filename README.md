@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/avicodes22](https://twitter.com/avicodes22)
 
-- 💬 Ask me about **Angular & Front-end web development**
+- 💬 Ask me about **Crafting robust backends (Java/Spring Boot), dynamic frontends (Angular/Node.js), and clean UI/UX**
 
 - 📫 How to reach me **avanish068@gmail.com**
 
