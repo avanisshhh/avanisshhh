@@ -20,7 +20,7 @@
 Available Soon](
 https://shorturl.at/drGH11)
 
-- ⚡ Fun fact **Web Developers are digital nomads**
+- ⚡ Fun fact **Full Stack Developers are like culinary artists – we whip up the whole meal, from designing the delightful dessert (frontend) to sourcing the secret sauce (backend), all while making sure the kitchen (database) doesn't catch fire. Sometimes, we even do the dishes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
