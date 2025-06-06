@@ -1,6 +1,6 @@
 [![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/05/Featured-%E2%80%93-6.jpg)]()
 <h1 align="center">Hi 👋, I'm Avanish Kumar</h1>
-<h3 align="center">Full Stack Developer with expertise in creating high-quality applications using Java, Spring Boot, Angular, NodeJS, HTML, CSS, TypeScript, JavaScript. Seeking a challenging role to contribute to user-centric design, intuitive interfaces, and continuous learning in front-end development.</h3>
+<h3 align="center">Full-stack developer passionate about building high-quality, user-centric applications. Proficient in Java and Spring Boot for robust backend development, complemented by expertise in Angular, Node.js, HTML, CSS, TypeScript, and JavaScript for intuitive interfaces. Constantly seeking challenging roles to contribute to innovative software solutions and foster continuous learning within the development community.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 
