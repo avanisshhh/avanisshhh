@@ -43,7 +43,7 @@ https://shorturl.at/drGH11)
   </a>
   <a href="https://spring.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"
+      src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png"
       alt="Spring Boot"
       width="40"
       height="40"
